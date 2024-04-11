@@ -37,8 +37,7 @@ O projeto "Trilhando sobre dados" visa utilizar recursos da Azure para construir
 O projeto "Trilhando sobre dados" demonstra como utilizar os recursos da Azure para construir um ambiente de dados robusto e eficiente, desde a gestão do banco de dados até a visualização dos insights gerados. O uso do Git e GitHub garante o controle de versão do código, facilitando a colaboração e o gerenciamento do projeto. Com essas ferramentas e práticas, é possível obter uma análise de dados de alta qualidade e tomar decisões informadas com base nos insights obtidos.
 
 
-## Autore
+## Autor
 
 - [@h4ns7](https://www.github.com/h4ns7)
 
-Esse esboço é um ponto de partida. Você pode expandir cada seção com mais detalhes conforme necessário.
